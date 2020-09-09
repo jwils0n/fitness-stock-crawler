@@ -1,0 +1,16 @@
+{
+  "name": "fitness-stock-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jwils0n/fitness-stock-crawler.git",
+  "author": "Wilson, James <James_Wilson@intuit.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "nodemailer": "^6.4.11"
+  }
+}
